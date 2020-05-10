@@ -23,6 +23,9 @@ Angela Duckworth
 
 https://www.youtube.com/watch?v=wWok0YoVjKc&list=PLvjUOuw_44Lbhbci_MNJWWODGfc0i6OdV
 
+##### GO포럼
+
+https://forum.golangbridge.org
 
 
 > 내용은 계속해서 수정될 예정입니다.
